@@ -238,3 +238,7 @@ header .info-text .scroll::before{
 .info a {
     color: #ccc;
 }
+
+.info a:visited {
+        color: #ccc; /* Cor para links visitados */
+    }
