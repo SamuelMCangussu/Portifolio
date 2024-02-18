@@ -234,3 +234,7 @@ header .info-text .scroll::before{
         max-height: 150px;
     }
 }
+
+.info a {
+    color: #ccc;
+}
